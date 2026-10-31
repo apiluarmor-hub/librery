@@ -1,1 +1,1 @@
-hola
+loadstring(game:HttpGet("https://raw.githubusercontent.com/apiluarmor-hub/Miranda/refs/heads/main/MirandaAfkk"))()
